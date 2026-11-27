@@ -1,13 +1,10 @@
 基于Python计算机视觉和ADB的《部落冲突》智能自动化系统，支持多种模拟器,适配多种分辨率
-无需Root即可实现资源收集、兵种管理等功能。
+无需Root即可实现资源收集、兵种管理等功能此项做了修改可以自动战斗但是放兵力有时候不太行有兴趣的可以参与优化一下。
 ---------------------------------
 🏰 COC Robot - 部落冲突自动化助手    
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![ADB Required](https://img.shields.io/badge/ADB-34.0.5+-orange.svg)](https://developer.android.com/studio/releases/platform-tools)
-
-**[![Bilibili 演示视频](https://img.shields.io/badge/点击观看完整演示-00AEC5?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1g8RVYAEQv)**
-
 ---------------------------------
 **🌟 核心功能：**
 | 功能模块         | 支持特性                                                                 |
