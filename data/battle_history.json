@@ -1,0 +1,170 @@
+[
+  {
+    "time": "2026-11-26 13:24:03",
+    "method": "own",
+    "loot": {
+      "gold": 1295845,
+      "elixir": 1297530,
+      "dark": 3831
+    },
+    "gained": {
+      "gold": null,
+      "elixir": null,
+      "dark": null
+    },
+    "result": "success"
+  },
+  {
+    "time": "2026-11-26 13:33:29",
+    "method": "own",
+    "loot": {
+      "gold": 1875585,
+      "elixir": 2163483,
+      "dark": 7249
+    },
+    "gained": {
+      "gold": 1403381,
+      "elixir": 1522456,
+      "dark": 2376
+    },
+    "result": "success"
+  },
+  {
+    "time": "2026-11-26 13:59:52",
+    "method": "own",
+    "loot": {
+      "gold": 1726639,
+      "elixir": 1717398,
+      "dark": 9699
+    },
+    "gained": {
+      "gold": 1327488,
+      "elixir": 1321088,
+      "dark": 7779
+    },
+    "result": "success"
+  },
+  {
+    "time": "2026-11-26 14:45:23",
+    "method": "own",
+    "loot": {
+      "gold": 1873699,
+      "elixir": 1512228,
+      "dark": 13242
+    },
+    "gained": {
+      "gold": 1713699,
+      "elixir": 1096228,
+      "dark": 12682
+    },
+    "result": "success"
+  },
+  {
+    "time": "2026-11-26 15:09:05",
+    "method": "own",
+    "loot": {
+      "gold": 1368547,
+      "elixir": 1321120,
+      "dark": 5654
+    },
+    "gained": {
+      "gold": 1368547,
+      "elixir": 1321120,
+      "dark": 5654
+    },
+    "destruction": 100,
+    "side": "left",
+    "lightning_per_ad": 3,
+    "result": "success"
+  },
+  {
+    "time": "2026-11-26 15:12:19",
+    "method": "own",
+    "loot": {
+      "gold": 2459801,
+      "elixir": 1717138,
+      "dark": 4496
+    },
+    "gained": {
+      "gold": 2459800,
+      "elixir": 1717138,
+      "dark": 4496
+    },
+    "destruction": 100,
+    "side": "left",
+    "lightning_per_ad": 3,
+    "result": "success"
+  },
+  {
+    "time": "2026-11-26 15:24:50",
+    "method": "own",
+    "loot": {
+      "gold": 2021266,
+      "elixir": 2021252,
+      "dark": 9339
+    },
+    "gained": {
+      "gold": null,
+      "elixir": null,
+      "dark": null
+    },
+    "destruction": null,
+    "side": "left",
+    "lightning_per_ad": 3,
+    "result": "success"
+  },
+  {
+    "time": "2026-11-26 15:33:42",
+    "method": "own",
+    "loot": {
+      "gold": 2174546,
+      "elixir": 2145055,
+      "dark": 7557
+    },
+    "gained": {
+      "gold": 0,
+      "elixir": 0,
+      "dark": 9119
+    },
+    "destruction": null,
+    "side": "right",
+    "lightning_per_ad": 3,
+    "result": "success"
+  },
+  {
+    "time": "2026-11-26 15:41:25",
+    "method": "own",
+    "loot": {
+      "gold": 1436739,
+      "elixir": 1181640,
+      "dark": 11625
+    },
+    "gained": {
+      "gold": 1027939,
+      "elixir": 821808,
+      "dark": 5279
+    },
+    "destruction": 94,
+    "side": "fallback",
+    "lightning_per_ad": 3,
+    "result": "success"
+  },
+  {
+    "time": "2026-11-26 16:29:31",
+    "method": "own",
+    "loot": {
+      "gold": 1089618,
+      "elixir": 1830022,
+      "dark": 11431
+    },
+    "gained": {
+      "gold": 469633,
+      "elixir": 1004146,
+      "dark": 5594
+    },
+    "destruction": 67,
+    "side": "fallback",
+    "lightning_per_ad": 3,
+    "result": "retry"
+  }
+]

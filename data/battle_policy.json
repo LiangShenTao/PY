@@ -1,0 +1,16 @@
+{
+  "lightning_per_ad": 3,
+  "total_battles": 6,
+  "recent_destruction": [
+    100,
+    100,
+    94,
+    67
+  ],
+  "side_stats": {
+    "left": [
+      2,
+      200
+    ]
+  }
+}
